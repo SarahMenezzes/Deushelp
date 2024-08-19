@@ -1,0 +1,30 @@
+/* src/DataFetcher.css */
+.container {
+    padding: 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .title {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 20px;
+  }
+  
+  .loading, .error {
+    font-size: 18px;
+    color: #ff0000;
+  }
+  
+  .data {
+    font-size: 16px;
+    background-color: #f4f4f4;
+    padding: 10px;
+    border-radius: 4px;
+    overflow-x: auto;
+  }
+  
+  .data pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+  }
+  
